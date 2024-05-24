@@ -1,4 +1,3 @@
-# First-Chrome-extension
 
 # How to Create a Chrome Extension
 
